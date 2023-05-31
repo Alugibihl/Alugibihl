@@ -22,7 +22,10 @@
 
 ---
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ohio.
+<div align="center">I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ohio.</div>
+
+-:zap: I am working as a software engineer updating and upgrading my current full stack applications.
+-:pizza: In my free time, I cook up a snack and browse recent tech changes and advancements.
 
 
 
