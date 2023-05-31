@@ -27,6 +27,8 @@
 
 - :pizza: In my free time, I cook up a snack and browse recent tech changes and advancements.
 
+- :fire: Researching new tools and technologies to grow my skill set. :brain:
+
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-lugibihl)
 
 
