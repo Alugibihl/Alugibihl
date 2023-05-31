@@ -22,13 +22,13 @@
 
 ---
 
-<div align="center">I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ohio.</div>
+<div align="center">I am a Full Stack Developer from Ohio.</div>
 
 - :zap: I am working as a software engineer updating and upgrading my current full stack applications.
 
 - :pizza: In my free time, I cook up a snack and browse recent tech changes and advancements.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-lugibihl)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-lugibihl)
 
 
 ### :hammer_and_wrench: Languages and Tools :
