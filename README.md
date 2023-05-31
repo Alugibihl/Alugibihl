@@ -28,7 +28,7 @@
 
 - :pizza: In my free time, I cook up a snack and browse recent tech changes and advancements.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-lugibihl)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-lugibihl)
 
 
 ### :hammer_and_wrench: Languages and Tools :
